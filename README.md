@@ -10,7 +10,7 @@ Welcome to Kteer Helou Patisserie, your go-to online destination for a delightfu
 2. [Installation](#installation)
 3. [Usage](#usage)
 4. [Contributing](#contributing)
-5. [License](#license)
+
 
 ## Features
 
@@ -51,17 +51,3 @@ We welcome contributions to enhance the Kteer Helou Patisserie website. To contr
 4. Push to the branch (`git push origin feature/new-feature`).
 5. Open a pull request.
 
-## License
-
-This Kteer Helou Patisserie website is licensed under the [MIT License](LICENSE.md).
-
-## Acknowledgments
-
-- [Bootstrap](https://getbootstrap.com/)
-- [jQuery](https://jquery.com/)
-
-A special thank you to the Bootstrap and jQuery communities for providing the tools to create a visually appealing and user-friendly website.
-
----
-
-Feel free to customize this template further based on any additional details or features specific to Kteer Helou Patisserie. If you have unique offerings or a particular theme, incorporate that information into the relevant sections.
