@@ -65,7 +65,7 @@ AOS.init({
 
   $.Scrollax();
 
-  //   carousel
+  
   var carousel = function () {
     $(".home-slider").owlCarousel({
       loop: true,
@@ -127,7 +127,7 @@ AOS.init({
           direction === "down" &&
           !$(this.element).hasClass("ftco-animated")
         ) {
-          var comma_seperator_number_step =
+          var comma_separator_number_step =
             $.animateNumber.numberStepFactories.separator(",");
           $(".number").each(function () {
             var $this = $(this),
@@ -136,7 +136,7 @@ AOS.init({
             $this.animateNumber(
               {
                 number: num,
-                numberStep: comma_seperator_number_step,
+                numberStep: comma_separator_number_step,
               },
               7000
             );

@@ -3,22 +3,6 @@ html {
     scroll-behavior: smooth;
 }
 
-  header, .navbar-brand {
-    font-size: 14px;
-  }
-
-
-#blurredBackground {
-      position: fixed;
-      top: 0;
-      left: 0;
-      width: 100%;
-      height: 100%;
-      z-index: 998;
-      background: url('your-blurred-image.jpg') center/cover; /* Replace with your blurred image or use a CSS filter for blurring */
-      backdrop-filter: blur(8px); /* Adjust the blur intensity as needed */
-      display: none;
-    }
 
 
 
@@ -451,8 +435,9 @@ html {
 }
 
 .ftco-section {
-  padding: 7em 0px 20px 0px;
+  padding: 7em 0px 0px 0px;
   position: relative;
+
 }
 
 .heading-section {
@@ -485,7 +470,7 @@ html {
 }
 
 .menu-wrap {
-  margin-bottom: 0;
+  margin-bottom: 70;
 }
 
 
@@ -633,6 +618,7 @@ html {
 
 .testimony-section .owl-dots {
   text-align: center;
+  margin-bottom: 40px;
 }
 
 .testimony-section .owl-dots .owl-dot {
@@ -874,14 +860,19 @@ html {
 
 
 
+
+
 .ftco-bg-dark {
   background: #3c312e;
+  
 }
 
 .ftco-footer {
   font-size: 14px;
   background: #141313;
-  padding: 50px 0px 10px 0px;
+  height: fit-content;
+  margin: 7em 0px 0px 0px !important;
+  padding: 50px 0px 5px 0px ;
 }
 .ftco-footer .ftco-footer-logo {
   text-transform: uppercase;
@@ -1000,14 +991,9 @@ html {
   color: #000000;
 }
 
-@media only screen and (max-width: 600px) {
-  /* Styles for screens with a maximum width of 600px */
-  
-  
-}
+
 
 @media only screen and (min-width: 601px) and (max-width: 900px) {
-  /* Styles for screens with a width between 601px and 900px */
   body {
     font-size: 16px;
   }
