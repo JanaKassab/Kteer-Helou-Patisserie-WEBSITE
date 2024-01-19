@@ -11,7 +11,6 @@ Welcome to Kteer Helou Patisserie, your go-to online destination for a delightfu
 3. [Usage](#usage)
 4. [Contributing](#contributing)
 
-
 ## Features
 
 - **Sweet Treat Catalog:** Explore a diverse selection of delectable cakes and pastries, each with detailed descriptions and images.
@@ -50,4 +49,3 @@ We welcome contributions to enhance the Kteer Helou Patisserie website. To contr
 3. Commit your changes (`git commit -am 'Add new feature'`).
 4. Push to the branch (`git push origin feature/new-feature`).
 5. Open a pull request.
-
