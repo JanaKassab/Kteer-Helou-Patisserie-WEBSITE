@@ -36,10 +36,6 @@ Explore the Kteer Helou Patisserie website and enjoy the following features:
 - Browse the sweet treat catalog, including cakes and pastries, with detailed descriptions and images.
 - Use the order form to specify your preferences and easily place an order.
 
-## Troubleshooting
-
-If you encounter any issues, please make sure that you have the latest version of Bootstrap and jQuery.
-
 ## Contributing
 
 We welcome contributions to enhance the Kteer Helou Patisserie website. To contribute, follow these steps:
