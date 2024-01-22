@@ -23,11 +23,11 @@ To set up the Kteer Helou Patisserie website locally, follow these steps:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/kteer-helou-patisserie.git
-cd kteer-helou-patisserie
+git clone https://github.com/your-username/kteer-helou-patisserie-WEBSITE.git
+cd kteer-helou-patisserie-WEBSITE
 ```
 
-2.Open the `index.html` file in your preferred web browser.
+2. Open the `index.html` file in your preferred web browser.
 
 ## Usage
 
@@ -35,10 +35,6 @@ Explore the Kteer Helou Patisserie website and enjoy the following features:
 
 - Browse the sweet treat catalog, including cakes and pastries, with detailed descriptions and images.
 - Use the order form to specify your preferences and easily place an order.
-
-## Troubleshooting
-
-If you encounter any issues, please make sure that you have the latest version of Bootstrap and jQuery.
 
 ## Contributing
 
